@@ -1,2 +1,2 @@
-# Date_classification
+# Date Classification
 Classification of dates using different algorithms
